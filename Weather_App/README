@@ -1,0 +1,4 @@
+This program retrieves weather information of a given city.
+Create an account in https://home.openweathermap.org and get API key
+Create a file "API_KEY.txt" and store the key in this file.
+
